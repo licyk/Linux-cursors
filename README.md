@@ -1,5 +1,11 @@
-# merry-cursors
-鼠标为b站作者"芥末味Banana"所制作
+# Linux cursors
+仓库中有Linux鼠标指针的转换模版
+文件内含教程
+制作所需工具：
+win2xcur(https://github.com/quantum5/win2xcur)
+switch.sh
+
+# merry-cursors鼠标为b站作者"芥末味Banana"所制作
 原链接"https://b23.tv/rrSa7GJ"
 通过github项目"win2xcur"为Linux进行转换
 项目原链接"https://github.com/quantum5/win2xcur"
@@ -10,6 +16,8 @@
   git clone https://github.com/licyk/merry-cursors.git
 <br/>
   cd merry-cursors
+<br/>
+  cd Linux-cursors
 <br/>
   unzip merry-cursors.zip
 <br/>
@@ -24,3 +32,5 @@
 卸载:
 
   sudo dpkg -i merry-cursors
+
+# 仓库内还有其他鼠标指针，安装方法同理
